@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="kr.co.application_code.application.GitHubPullRequestWebhookExtractorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-01-16T16:35:53.194Z" hostname="DESKTOP-AFL85DA" time="0.078">
+  <properties/>
+  <testcase name="extracts_pull_request_metadata_from_opened_event()" classname="kr.co.application_code.application.GitHubPullRequestWebhookExtractorTest" time="0.078"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
